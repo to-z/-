@@ -12,8 +12,13 @@ namespace frest_APP
         {
             Console.WriteLine("hello world");
             Console.WriteLine("hzaze");
-            Console.Write("as");
-            Console.ReadKey();
+            Console.Write("as");    Console.ReadKey();
+ // the is frest program 
+
+
+            
         }
+
+
     }
 }
